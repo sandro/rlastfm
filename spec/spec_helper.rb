@@ -3,7 +3,7 @@ require 'fake_web'
 require File.expand_path(File.join(File.dirname(__FILE__), %w[.. lib rlastfm]))
 
 def site_file(filename)
-  @site_file = File.join(File.dirname(__FILE__), %W[site #{filename}])
+  File.join(File.dirname(__FILE__), %W[site #{filename}])
 end
 
 Spec::Runner.configure do |config|
