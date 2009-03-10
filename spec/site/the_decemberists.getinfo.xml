@@ -1,0 +1,68 @@
+HTTP/1.0 200 OK
+Date: Tue, 10 Feb 2009 04:26:29 GMT
+Server: Apache/1.3.39 (Unix)
+X-Proxy-Fix-Up: headers fixed up
+X-Web-Node: www123
+Cache-Control: max-age=604800
+Expires: Tue, 17 Feb 2009 04:26:29 GMT
+Connection: close
+Content-Type: text/xml; charset=utf-8;
+
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<artist>
+  <name>The Decemberists</name>
+  <mbid>97b1142f-c71e-4971-8736-4a8ceaf6b4c3</mbid>
+  <url>http://www.last.fm/music/The+Decemberists</url>
+  <image size="small">http://userserve-ak.last.fm/serve/34/11786.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/11786.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/11786.jpg</image>
+  <streamable>1</streamable>
+  <stats>
+    <listeners>648976</listeners>
+    <playcount>24426450</playcount>
+  </stats>
+
+  <similar>
+	    <artist>
+	  <name>Colin Meloy</name>
+	  <url>http://www.last.fm/music/Colin+Meloy</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/1999.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/1999.jpg></image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/1999.jpg</image>
+	</artist>
+    <artist>
+	  <name>Neutral Milk Hotel</name>
+	  <url>http://www.last.fm/music/Neutral+Milk+Hotel</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/361904.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/361904.jpg></image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/361904.jpg</image>
+	</artist>
+    <artist>
+	  <name>Iron &amp; Wine</name>
+	  <url>http://www.last.fm/music/Iron%2B%2526%2BWine</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/2294394.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/2294394.jpg></image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/2294394.jpg</image>
+	</artist>
+    <artist>
+	  <name>The Shins</name>
+	  <url>http://www.last.fm/music/The+Shins</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/21982.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/21982.jpg></image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/21982.jpg</image>
+	</artist>
+    <artist>
+	  <name>The New Pornographers</name>
+	  <url>http://www.last.fm/music/The+New+Pornographers</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/355254.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/355254.jpg></image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/355254.jpg</image>
+	</artist>
+  </similar>
+      <bio>
+    <published>Fri, 24 Oct 2008 04:12:18 +0000</published>
+    <summary><![CDATA[The Decemberists are a five-piece folk rock band from Portland, Oregon, fronted by singer/songwriter <a href="http://www.last.fm/music/Colin+Meloy" class="bbcode_artist">Colin Meloy</a>. Their debut EP, 5 Songs, was self-released in 2001. Their fourth full-length album, <a title="The Decemberists - The Crane Wife" href="http://www.last.fm/music/The+Decemberists/The+Crane+Wife" class="bbcode_album">The Crane Wife</a>, was released on 3 October 2006 by <a href="http://www.last.fm/label/Capitol+Records/" class="bbcode_label">Capitol Records</a>, and is their first appearance on a major label. The band's current lineup is Colin Meloy (vocals, guitar), Chris Funk (guitar, mandolin, hammered dulcimer), Jenny Conlee (keyboards, accordion, organ, vocals), Nate Query (bass) and John Moen (drums, vocals). ]]></summary>
+    <content><![CDATA[<strong>The Decemberists</strong> are a five-piece folk rock band from Portland, Oregon, fronted by singer/songwriter <a href="http://www.last.fm/music/Colin+Meloy" class="bbcode_artist">Colin Meloy</a>. Their debut EP, <em>5 Songs</em>, was self-released in 2001. Their fourth full-length album, <a title="The Decemberists - The Crane Wife" href="http://www.last.fm/music/The+Decemberists/The+Crane+Wife" class="bbcode_album">The Crane Wife</a>, was released on 3 October 2006 by <a href="http://www.last.fm/label/Capitol+Records/" class="bbcode_label">Capitol Records</a>, and is their first appearance on a major label. The band's current lineup is Colin Meloy (vocals, guitar), Chris Funk (guitar, mandolin, hammered dulcimer), Jenny Conlee (keyboards, accordion, organ, vocals), Nate Query (bass) and John Moen (drums, vocals).  Named both in reference to the Russian Decembrist Revolt (they use the national anthem of the Soviet Union as an introduction at many concerts) and to the atmosphere associated with the month of December, the Decemberists write songs that range from upbeat pop to instrumentally lush ballads. They often employ instruments like the accordion, Hammond organ, Wurlitzer organ, and upright bass. In their lyrics, they eschew the angst and introspection common to modern rock, instead favoring a storytelling approach, as evidenced in songs such as &quot;<a title="The Decemberists &ndash; My Mother Was a Chinese Trapeze Artist" href="http://www.last.fm/music/The+Decemberists/_/My+Mother+Was+a+Chinese+Trapeze+Artist" class="bbcode_track">My Mother Was a Chinese Trapeze Artist</a>&quot; from the 5 Songs EP and &quot;<a title="The Decemberists &ndash; The Mariner's Revenge Song" href="http://www.last.fm/music/The+Decemberists/_/The+Mariner%27s+Revenge+Song" class="bbcode_track">The Mariner's Revenge Song</a>&quot; on <a title="The Decemberists - Picaresque" href="http://www.last.fm/music/The+Decemberists/Picaresque" class="bbcode_album">Picaresque</a>. Their songs convey tales ranging from whimsical (&quot;<a title="The Decemberists &ndash; Here I Dreamt I Was an Architect" href="http://www.last.fm/music/The+Decemberists/_/Here+I+Dreamt+I+Was+an+Architect" class="bbcode_track">Here I Dreamt I Was an Architect</a>&quot;) to epic (&quot;<a title="The Decemberists &ndash; The Tain" href="http://www.last.fm/music/The+Decemberists/_/The+Tain" class="bbcode_track">The Tain</a>&quot;) to truly dark (&quot;<a title="The Decemberists &ndash; Odalisque" href="http://www.last.fm/music/The+Decemberists/_/Odalisque" class="bbcode_track">Odalisque</a>&quot;). They often invoke historical events and themes from around the world. Early in their career, The Decemberists' musical and lyrical aesthetics frequently prompted critics to compare them to <a href="http://www.last.fm/music/Neutral+Milk+Hotel" class="bbcode_artist">Neutral Milk Hotel</a>. Since their debut, their sound has undergone a consistent evolution, most notably in the direction of progressive rock with a strong folk influence, though they have also been described as indie rock and, by <a href="http://www.last.fm/music/Stephen+Colbert" class="bbcode_artist">Stephen Colbert</a>, as &quot;hyper-literate prog rock.&quot; For example, one song, &quot;<a title="The Decemberists &ndash; When the War Came" href="http://www.last.fm/music/The+Decemberists/_/When+the+War+Came" class="bbcode_track">When the War Came</a>&quot;, uses a little-known story from the Siege of Leningrad to describe the heroism of civilian scientists during warfare. The lyrics state: &quot;We made our oath to Vavilov / We'd not betray the solanum / The acres of asteraceae / To our own pangs of starvation&quot;. Nikolai Ivanovich Vavilov was a Russian botanist whose laboratory, a seedbank containing 200,000 types of plant seeds, many of them edible, was preserved throughout the siege, during which hundreds of thousands of people died.  In March 2005, the Decemberists were reportedly the first band to distribute a music video via BitTorrent -- the self-produced &quot;16 Military Wives&quot; (from Picaresque). That same month, the band's equipment trailer was stolen; fans contributed to a replacement fund, and another fund-raiser was organized via an eBay auction, with buyers bidding for copies of <a title="Colin Meloy - Colin Meloy Sings Morrissey" href="http://www.last.fm/music/Colin+Meloy/Colin+Meloy+Sings+Morrissey" class="bbcode_album">Colin Meloy Sings Morrissey</a> and original art work by Carson Ellis. They also received help from <span title="Unknown artist" class="bbcode_unknown">Lee Kruger</span>, <a href="http://www.last.fm/music/The+Shins" class="bbcode_artist">The Shins</a>, <a href="http://www.last.fm/music/The+Dandy+Warhols" class="bbcode_artist">The Dandy Warhols</a> and other musicians. The Martin Guitar Company offered six- and twelve-string guitars on permanent loan. In early April, police discovered the trailer in Clackamas, Oregon, and a fair amount of the band's merchandise, but the instruments and equipment were not recovered.  On 12 December 2005, Meloy revealed to Pitchfork Media that they had signed to Capitol Records, and planned to begin recording their major label debut with producers Tucker Martine and Chris Walla, of <a href="http://www.last.fm/music/Death+Cab+for+Cutie" class="bbcode_artist">Death Cab for Cutie</a> fame, in April 2006. The Decemberists' first album on Capitol, and their first major label debut, <em>The Crane Wife</em>, was released on 3 October 2006. The release was accompanied by an appearance the same day on the world-wide syndicated TV talk show <em>Late Night with Conan O'Brien</em> when the track &quot;<a title="The Decemberists &ndash; O Valencia!" href="http://www.last.fm/music/The+Decemberists/_/O+Valencia%21" class="bbcode_track">O Valencia!</a>&quot; was performed. The Decemberists began their tour in support of The Crane Wife, with The Rout of the Patagons Tour, on 17 October 2006, at Portland, Oregon's Crystal Ballroom. Their opening act was Lavender Diamond. Later on in the tour, Alasdair Roberts opened for the band.  In July 2007 the Decemberists set out on a five-date tour with a full orchestral accompaniment. On 7 July, the tour put the group on the stage of the historic Hollywood Bowl for the first time in their career, and they were joined by the <a href="http://www.last.fm/music/Los+Angeles+Philharmonic" class="bbcode_artist">Los Angeles Philharmonic</a>.  On 15 July the group performed with The Mann Festival Orchestra at The Mann Center for the Performing Arts in Philadelphia, Pennsylvania. They then played a free concert in Chicago, Ilinois, at the recently developed Millennium Park with the Grant Park Symphony Orchestra. In September 2007 they also played at Austin City Limits Music Festival in Austin, Texas.  In October 2007, they began The Long and Short of It Tour. However, having completed the European portion of the tour and immediately after playing the Chicago dates, the rest of the tour was canceled due to illness.]]></content>
+  </bio>
+  </artist></lfm>
